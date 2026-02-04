@@ -1,9 +1,9 @@
 # 🛡️ CyberMap Group | Advanced Security & Research Ecosystem
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Hardware_Hacking-red?style=for-the-badge&logo=target">
-  <img src="https://img.shields.io/badge/Research-AI_&_Blockchain-blue?style=for-the-badge&logo=google-scholar">
-  <img src="https://img.shields.io/badge/Defense-Blue_Teaming-green?style=for-the-badge&logo=fortinet">
+  <img src="https://img.shields.io/badge/Education-Training-red?style=for-the-badge&logo=internetarchive">
+  <img src="https://img.shields.io/badge/Hardware-Hacking-blue?style=for-the-badge&logo=target">
+  <img src="https://img.shields.io/badge/Structure-Ecosystem-green?style=for-the-badge&logo=blueprint">
 </p>
 
 ---
@@ -32,28 +32,30 @@ CyberMap Group is a research and development ecosystem dedicated to bridging the
 
 ---
 
-### 🛠️ Technology Stack
+### 🛠️ Projects and Services
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=flat-square&logo=wazuh&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- 🎓 **CyberLab** — Cyber Security Education and Laboratory Platform
+- 🦉 **Baykus** — Next-Generation Communication and Messaging Platform
 
 ---
 
 ### 📈 Ecosystem Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_ORG_NAME]&show_icons=true&theme=vision-ary&include_all_commits=true" alt="CyberMap Stats" />
+  <img src="https://img.shields.io/badge/Core_Team-3_Founders-blue?style=flat-square&logo=github" alt="Team Size">
+  <img src="https://img.shields.io/badge/Active_Contributors-9_Members-orange?style=flat-square&logo=teamspeak" alt="Contributors">
+  <img src="https://img.shields.io/badge/Status-Actively_Building-green?style=flat-square" alt="Status">
 </p>
+
+> [!NOTE]
+> The dynamic activity chart is currently being optimized. We are a team of dedicated security researchers and developers actively pushing code across various private and public repositories.
 
 ---
 
 ### 📫 Connect With Us
 
-* **Website:** [www.cybermapgroup.com](https://yourlink.com)
-* **LinkedIn:** [linkedin.com/company/cybermap](https://linkedin.com)
-* **Email:** [contact@cybermapgroup.com](mailto:info@yourdomain.com)
+* **Website:** [www.cybermapgroup.com](https://www.cybermapgroup.com)
+* **LinkedIn:** [linkedin.com/company/cybermap](https://www.linkedin.com)
+* **Email:** [contact@cybermapgroup.com](mailto:contact@cybermapgroup.com)
 
 > "Security is not a product, but a process."
