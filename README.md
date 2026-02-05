@@ -32,17 +32,16 @@ CyberMap Group is an ecosystem where comprehensive cybersecurity training, conte
 
 ---
 
-### 🛠️ Our Services
+### Our Services
 
 -  **CyberSecurity Consulting** — Corporate Security Consulting and Penetration Testing Services
 
 ---
 
-### 📈 Ecosystem Activity
+### Ecosystem Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Core_Team-3_Founders-blue?style=flat-square&logo=github" alt="Team Size">
-  <img src="https://img.shields.io/badge/Active_Contributors-9_Members-orange?style=flat-square&logo=teamspeak" alt="Contributors">
+  <img src="https://img.shields.io/badge/Core_Team-10_Founders-blue?style=flat-square&logo=github" alt="Team Size">
   <img src="https://img.shields.io/badge/Status-Actively_Building-green?style=flat-square" alt="Status">
 </p>
 
@@ -51,7 +50,7 @@ CyberMap Group is an ecosystem where comprehensive cybersecurity training, conte
 
 ---
 
-### 📫 Connect With Us
+### Connect With Us
 
 * **Website:** [www.cybermapgroup.com](https://www.cybermapgroup.com)
 * **LinkedIn:** [linkedin.com/company/cybermap](https://www.linkedin.com/company/cybermap-group)
