@@ -41,7 +41,7 @@ CyberMap Group is an ecosystem where comprehensive cybersecurity training, conte
 ### Ecosystem Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Core_Team-10_Founders-blue?style=flat-square&logo=github" alt="Team Size">
+  <img src="https://img.shields.io/badge/Core_Team-10_Founders-blue?style=flat-square" alt="Team Size">
   <img src="https://img.shields.io/badge/Status-Actively_Building-green?style=flat-square" alt="Status">
 </p>
 
