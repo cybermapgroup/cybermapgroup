@@ -54,7 +54,7 @@ CyberMap Group is an ecosystem where comprehensive cybersecurity training, conte
 ### 📫 Connect With Us
 
 * **Website:** [www.cybermapgroup.com](https://www.cybermapgroup.com)
-* **LinkedIn:** [linkedin.com/company/cybermap]([https://www.linkedin.com](https://www.linkedin.com/company/cybermap-group/))
+* **LinkedIn:** [linkedin.com/company/cybermap](https://www.linkedin.com/company/cybermap-group)
 * **Email:** [contact@cybermapgroup.com](mailto:contact@cybermapgroup.com)
 
 > "We are mapping the cybersecurity of tomorrow."
